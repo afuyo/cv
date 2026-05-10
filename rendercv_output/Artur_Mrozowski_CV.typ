@@ -183,7 +183,7 @@ I specialize in turning complex business processes into governed analytical plat
 
   ],
   main-column-second-row: [
-    - Built an underwriting data platform replacing Excel-based workflows with centralized governed data flows and shared business logic.
+    - Contributed to an underwriting data platform project, replacing Excel-based workflows with centralized governed data flows and shared business logic.
 
     - Introduced Event Modeling to improve collaboration between business and engineering stakeholders.
 
@@ -242,17 +242,17 @@ I specialize in turning complex business processes into governed analytical plat
 
 == Earlier Career
 
-Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014
+- Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014
 
-DR - Business Intelligence Consultant, 2012-2013
+- DR - Business Intelligence Consultant, 2012-2013
 
-Danske Bank - External Consultant, 2010-2012
+- Danske Bank - External Consultant, 2010-2012
 
-SimCorp - Software Developer, 2008-2010
+- SimCorp - Software Developer, 2008-2010
 
-Copenhagen Energy - DBA, 2004-2008
+- Copenhagen Energy - DBA, 2004-2008
 
-Quibus International AB - Software Developer, 2002-2004
+- Quibus International AB - Software Developer, 2002-2004
 
 == Skills
 
@@ -268,89 +268,23 @@ Quibus International AB - Software Developer, 2002-2004
 
 == Certifications
 
-#regular-entry(
-  [
-    #strong[Certified Scrum Product Owner]
+#strong[Certified Scrum Product Owner:] 2022
 
-  ],
-  [
-    2022
+#strong[Data Mesh - Domain Oriented Data:] 2022
 
-  ],
-  main-column-second-row: [
-  ],
-)
+#strong[Lead Enterprise Architecture Program on Azure - Microsoft:] 2017
 
-#regular-entry(
-  [
-    #strong[Data Mesh - Domain Oriented Data]
+#strong[Data Modelling Master Class - Steve Hoberman:] 2016
 
-  ],
-  [
-    2022
+#strong[Data Vault Certified Data Modeler, DVCDM:] 2014
 
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Lead Enterprise Architecture Program on Azure - Microsoft]
-
-  ],
-  [
-    2017
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Data Modelling Master Class - Steve Hoberman]
-
-  ],
-  [
-    2016
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Data Vault Certified Data Modeler, DVCDM]
-
-  ],
-  [
-    2014
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[CDMP Preparation]
-
-  ],
-  [
-    2024
-
-  ],
-  main-column-second-row: [
-  ],
-)
+#strong[CDMP Preparation:] 2024
 
 == Education
 
-  #education-entry(
+  #regular-entry(
   [
-    #strong[Lund University], Bachelor of Science in System Analysis
+    #strong[Lund University - Bachelor of Science, System Analysis]
 
   ],
   [
@@ -365,69 +299,34 @@ Quibus International AB - Software Developer, 2002-2004
 
 == Professional Development
 
-Knowledge Graph Academy - ongoing
+- Knowledge Graph Academy - ongoing
 
-Claude Academy - Claude Certified Architect track, ongoing
+- Claude Academy - Claude Certified Architect track, ongoing
 
-Apache Spark Workshop for Developers
+- Apache Spark Workshop for Developers
 
-Distributed Computing with Spark
+- Distributed Computing with Spark
 
-Data Science Specialization - Johns Hopkins University
+- Data Science Specialization - Johns Hopkins University
 
-Statistical Analysis with R
+- Statistical Analysis with R
 
-Oracle BI EE
+- Oracle BI EE
 
-C++ Programming
+- C++ Programming
 
-SQL Server Administration
+- SQL Server Administration
 
-Oracle Administration
+- Oracle Administration
 
 == Speaking and Open Source
 
-#regular-entry(
-  [
-    #strong[Democratizing Data]
+- #emph[Democratizing Data] - Tryg and Prisma, 2021
 
-  ],
-  [
-    2021
+- #emph[Building Semantic Data Hub with LPG, GraphQL and Kafka Streams], 2019
 
-  ],
-  main-column-second-row: [
-    - Presented with Tryg and Prisma.
+- GraphQL and graph data modeling in Neo4j
 
-  ],
-)
+- Azure Functions and machine learning
 
-#regular-entry(
-  [
-    #strong[Building Semantic Data Hub with LPG, GraphQL and Kafka Streams]
-
-  ],
-  [
-    2019
-
-  ],
-  main-column-second-row: [
-  ],
-)
-
-  #regular-entry(
-  [
-    #strong[Open source and GitHub projects]
-
-  ],
-  [
-  ],
-  main-column-second-row: [
-    - GraphQL and graph data modeling in Neo4j.
-
-    - Azure Functions and machine learning.
-
-    - XML parser for Danish motor register data.
-
-  ],
-)
+- XML parser for Danish motor register data

@@ -2,5 +2,4 @@
 
 cv:
 	uv run rendercv render artur_mrozowski__cv.yaml
-	cp "rendercv_output/Artur_Mrozowski_CV.md" README.md
-
+	uv run python scripts/format_rendercv_markdown.py

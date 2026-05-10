@@ -48,7 +48,7 @@ cv:
         start_date: 2016-08
         end_date: 2021-08
         highlights:
-          - "Built an underwriting data platform replacing Excel-based workflows with centralized governed data flows and shared business logic."
+          - "Contributed to an underwriting data platform project, replacing Excel-based workflows with centralized governed data flows and shared business logic."
           - "Introduced Event Modeling to improve collaboration between business and engineering stakeholders."
           - "Designed enterprise semantic and canonical models based on ACORD to standardize concepts and improve interoperability across domains."
           - "Built event-driven write-back capabilities using GraphQL and Kafka, enabling applications to publish operational outcomes back into the analytical ecosystem."
@@ -76,12 +76,12 @@ cv:
           - "Improved reliability and reduced time-to-market for BI deliveries through automation and streamlined delivery workflows."
 
     earlier_career:
-      - "Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014"
-      - "DR - Business Intelligence Consultant, 2012-2013"
-      - "Danske Bank - External Consultant, 2010-2012"
-      - "SimCorp - Software Developer, 2008-2010"
-      - "Copenhagen Energy - DBA, 2004-2008"
-      - "Quibus International AB - Software Developer, 2002-2004"
+      - bullet: "Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014"
+      - bullet: "DR - Business Intelligence Consultant, 2012-2013"
+      - bullet: "Danske Bank - External Consultant, 2010-2012"
+      - bullet: "SimCorp - Software Developer, 2008-2010"
+      - bullet: "Copenhagen Energy - DBA, 2004-2008"
+      - bullet: "Quibus International AB - Software Developer, 2002-2004"
 
     skills:
       - label: Strategy
@@ -96,51 +96,43 @@ cv:
         details: Snowflake, SQLMesh, dbt, SQLGlot, Kafka, GraphQL, Neo4j, AWS, Azure
 
     certifications:
-      - name: Certified Scrum Product Owner
-        date: 2022
-      - name: Data Mesh - Domain Oriented Data
-        date: 2022
-      - name: Lead Enterprise Architecture Program on Azure - Microsoft
-        date: 2017
-      - name: Data Modelling Master Class - Steve Hoberman
-        date: 2016
-      - name: Data Vault Certified Data Modeler, DVCDM
-        date: 2014
-      - name: CDMP Preparation
-        date: 2024
+      - label: Certified Scrum Product Owner
+        details: "2022"
+      - label: Data Mesh - Domain Oriented Data
+        details: "2022"
+      - label: Lead Enterprise Architecture Program on Azure - Microsoft
+        details: "2017"
+      - label: Data Modelling Master Class - Steve Hoberman
+        details: "2016"
+      - label: Data Vault Certified Data Modeler, DVCDM
+        details: "2014"
+      - label: CDMP Preparation
+        details: "2024"
 
     education:
-      - institution: Lund University
-        area: System Analysis
-        degree: Bachelor of Science
+      - name: Lund University - Bachelor of Science, System Analysis
         highlights:
           - "Faculty of Informatics."
           - "Key areas: database systems, data modeling, software architecture, UML, object-oriented design, Java programming, algorithms, and data structures."
 
     professional_development:
-      - "Knowledge Graph Academy - ongoing"
-      - "Claude Academy - Claude Certified Architect track, ongoing"
-      - "Apache Spark Workshop for Developers"
-      - "Distributed Computing with Spark"
-      - "Data Science Specialization - Johns Hopkins University"
-      - "Statistical Analysis with R"
-      - "Oracle BI EE"
-      - "C++ Programming"
-      - "SQL Server Administration"
-      - "Oracle Administration"
+      - bullet: "Knowledge Graph Academy - ongoing"
+      - bullet: "Claude Academy - Claude Certified Architect track, ongoing"
+      - bullet: "Apache Spark Workshop for Developers"
+      - bullet: "Distributed Computing with Spark"
+      - bullet: "Data Science Specialization - Johns Hopkins University"
+      - bullet: "Statistical Analysis with R"
+      - bullet: "Oracle BI EE"
+      - bullet: "C++ Programming"
+      - bullet: "SQL Server Administration"
+      - bullet: "Oracle Administration"
 
     speaking_and_open_source:
-      - name: Democratizing Data
-        date: 2021
-        highlights:
-          - "Presented with Tryg and Prisma."
-      - name: Building Semantic Data Hub with LPG, GraphQL and Kafka Streams
-        date: 2019
-      - name: Open source and GitHub projects
-        highlights:
-          - "GraphQL and graph data modeling in Neo4j."
-          - "Azure Functions and machine learning."
-          - "XML parser for Danish motor register data."
+      - bullet: "*Democratizing Data* - Tryg and Prisma, 2021"
+      - bullet: "*Building Semantic Data Hub with LPG, GraphQL and Kafka Streams*, 2019"
+      - bullet: "GraphQL and graph data modeling in Neo4j"
+      - bullet: "Azure Functions and machine learning"
+      - bullet: "XML parser for Danish motor register data"
 
 design:
   theme: engineeringclassic
@@ -190,4 +182,3 @@ design:
       headline: false
       connections: false
       section_titles: true
-
