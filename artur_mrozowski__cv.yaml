@@ -11,7 +11,7 @@ cv:
 
   sections:
     summary:
-      - "Senior data architect and analytics engineering lead with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma."
+      - "Senior data architect and data engineering with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma."
       - "Strong background in analytics strategy, data product platforms, metadata-driven automation, event-driven analytics, and cross-functional collaboration between business and engineering teams."
       - "I specialize in turning complex business processes into governed analytical platforms that improve metric consistency, operational visibility, and decision support."
 
@@ -31,7 +31,7 @@ cv:
 
     experience:
       - company: Tryg
-        position: Senior Analytics Engineer
+        position: Senior Data Engineer
         start_date: 2023-10
         end_date: present
         highlights:
@@ -91,7 +91,7 @@ cv:
         highlights:
           - "Designed target architecture and business proposal for a large-scale MS SQL Server data warehouse initiative."
           - "Participated in Data Governance Board activities defining enterprise data standards, policies, and governance principles."
-          - "Contributed to improving consistency and strategic use of enterprise information assets."
+      
 
       - company: Nordea
         position: Senior DW/BI Developer
