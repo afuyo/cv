@@ -15,19 +15,40 @@ cv:
       - "Strong background in analytics strategy, data product platforms, metadata-driven automation, event-driven analytics, and cross-functional collaboration between business and engineering teams."
       - "I specialize in turning complex business processes into governed analytical platforms that improve metric consistency, operational visibility, and decision support."
 
+    core_competencies:
+      - bullet: Analytics strategy and operational intelligence
+      - bullet: Data product platforms and enablement
+      - bullet: Semantic and canonical data modeling
+      - bullet: Unified business metrics and governed definitions
+      - bullet: Source-of-truth data platforms
+      - bullet: Event-driven analytics and operational modeling
+      - bullet: Metadata-driven automation
+      - bullet: Domain-driven design and Event Modeling
+      - bullet: Data governance, lineage, and metadata management
+      - bullet: Snowflake, SQLMesh, dbt, SQLGlot
+      - bullet: Kafka, GraphQL, Neo4j
+      - bullet: AWS and Azure
+
     experience:
       - company: Tryg
         position: Senior Analytics Engineer
         start_date: 2023-10
         end_date: present
         highlights:
-          - "**Revenue Intelligence and Operational Analytics:** Developed a revenue intelligence platform enabling standardized business metrics including NDR, GRR, Logo Retention, and funnel analytics across domains."
+          - "**Revenue Intelligence and Operational Analytics:**"
+          - "Developed a revenue intelligence platform enabling standardized business metrics including NDR, GRR, Logo Retention, and funnel analytics across domains."
           - "Built an event-driven analytical model enabling drill-down from executive KPIs to individual business events and operational decision points."
           - "Established reusable semantic definitions and time-series business events to improve metric consistency, explainability, and cross-functional trust in analytics."
-          - "**Data Product Platform and Strategy:** Helped shape a data product strategy focused on reducing fragmentation, improving interoperability, and enabling scalable analytics delivery."
+          - "Enabled analysts and business stakeholders to trace revenue movements and customer lifecycle changes through sequenced business activities rather than isolated snapshots."
+          - "Created a foundation for future context-aware analytics and richer operational intelligence capabilities."
+          - "**Data Product Platform and Strategy:**"
+          - "Helped shape a data product strategy focused on reducing fragmentation, improving interoperability, and enabling scalable analytics delivery."
           - "Built a shared data product platform improving consistency, reuse, and delivery speed across analytical domains."
+          - "Replaced fragmented self-service patterns with reusable governed building blocks and shared semantic concepts aligned with ACORD and domain-driven design principles."
           - "Replaced dbt with SQLMesh to improve scalability, maintainability, and developer workflow for analytical data products."
-          - "**Metadata-Driven Automation:** Designed a metadata-driven model generation approach turning declarative YAML definitions into governed SQLMesh models."
+          - "Introduced isolated virtual development environments reducing dependency conflicts and improving collaboration across teams."
+          - "**Metadata-Driven Automation:**"
+          - "Designed a metadata-driven model generation approach turning declarative YAML definitions into governed SQLMesh models."
           - "Automated generation of analytical building blocks including hook, bridge, and event models from reusable metadata, reducing manual SQL development and improving structural consistency across domains."
           - "Modeled temporal validity, dependency-aware bridge logic, and reusable business keys as metadata instead of hand-coded model patterns."
           - "Used dependency graphs and topological ordering to generate analytical structures in the correct sequence, improving repeatability and reducing delivery risk."
@@ -41,23 +62,27 @@ cv:
           - "Replaced a monolithic data lake approach with a flexible platform inspired by Data Mesh principles."
           - "Enabled scalable self-service analytics while maintaining governance and semantic consistency."
           - "Collaborated across technical and business domains to align analytical capabilities with organizational needs."
-          - "**Technologies:** Snowflake, dbt, AWS."
+          - "**Technologies:** Snowflake, dbt, AWS"
 
       - company: Tryg
         position: Data Engineer / Data Architect
         start_date: 2016-08
         end_date: 2021-08
         highlights:
-          - "Contributed to an underwriting data platform project, replacing Excel-based workflows with centralized governed data flows and shared business logic."
+          - "Built an underwriting data platform replacing Excel-based workflows with centralized governed data flows and shared business logic."
           - "Introduced Event Modeling to improve collaboration between business and engineering stakeholders."
           - "Designed enterprise semantic and canonical models based on ACORD to standardize concepts and improve interoperability across domains."
           - "Built event-driven write-back capabilities using GraphQL and Kafka, enabling applications to publish operational outcomes back into the analytical ecosystem."
           - "Automated logical and physical model generation using metadata-driven techniques, improving consistency and reducing manual effort."
-          - "**Enterprise Canonical Data Platform:** Developed a semantic data platform enabling standardized interchange of business information across departments."
+          - "**Enterprise Canonical Data Platform:**"
+          - "Developed a semantic data platform enabling standardized interchange of business information across departments."
           - "Implemented graph-based semantic models in Neo4j aligned with the ACORD insurance ontology."
           - "Exposed semantic models through GraphQL APIs and integrated event streams using Kafka."
-          - "**Metadata and Data Catalog:** Implemented metadata-driven lineage and business glossary capabilities using semantic technologies and Neo4j."
+          - "Improved consistency and discoverability of enterprise data assets."
+          - "**Metadata and Data Catalog:**"
+          - "Implemented metadata-driven lineage and business glossary capabilities using semantic technologies and Neo4j."
           - "Exposed metadata and lineage through Amundsen data catalog."
+          - "Improved discoverability, governance, and understanding of analytical assets across teams."
 
       - company: KMD
         position: Data Architect
@@ -66,6 +91,7 @@ cv:
         highlights:
           - "Designed target architecture and business proposal for a large-scale MS SQL Server data warehouse initiative."
           - "Participated in Data Governance Board activities defining enterprise data standards, policies, and governance principles."
+          - "Contributed to improving consistency and strategic use of enterprise information assets."
 
       - company: Nordea
         position: Senior DW/BI Developer
@@ -76,51 +102,38 @@ cv:
           - "Improved reliability and reduced time-to-market for BI deliveries through automation and streamlined delivery workflows."
 
     earlier_career:
-      - bullet: "Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014"
-      - bullet: "DR - Business Intelligence Consultant, 2012-2013"
-      - bullet: "Danske Bank - External Consultant, 2010-2012"
-      - bullet: "SimCorp - Software Developer, 2008-2010"
-      - bullet: "Copenhagen Energy - DBA, 2004-2008"
-      - bullet: "Quibus International AB - Software Developer, 2002-2004"
-
-    skills:
-      - label: Strategy
-        details: Analytics strategy, operational intelligence, data product platforms, source-of-truth data
-      - label: Modeling
-        details: Semantic modeling, canonical modeling, governed metrics, event-driven analytics, operational modeling
-      - label: Methods
-        details: Metadata-driven automation, domain-driven design, Event Modeling, Data Vault, HOOK methodology
-      - label: Governance
-        details: Data governance, lineage, metadata management, business glossary, reusable semantic definitions
-      - label: Technologies
-        details: Snowflake, SQLMesh, dbt, SQLGlot, Kafka, GraphQL, Neo4j, AWS, Azure
-
+      - bullet: "Swedish Agency for Marine and Water Management — BI Consultant (2013 – 2014)"
+      - bullet: "DR — Business Intelligence Consultant (2012 – 2013)"
+      - bullet: "Danske Bank — External Consultant (2010 – 2012)"
+      - bullet: "SimCorp — Software Developer (2008 – 2010)"
+      - bullet: "Copenhagen Energy — DBA (2004 – 2008)"
+      - bullet: "Quibus International AB — Software Developer (2002 – 2004)"
+   
+    current_learning_professional_development:
+      - bullet: Knowledge Graph Academy ongoing
+      - bullet: Claude Academy Claude Certified Architect track (ongoing)
+    
     certifications:
-      - label: Certified Scrum Product Owner
-        details: "2022"
-      - label: Data Mesh - Domain Oriented Data
-        details: "2022"
-      - label: Lead Enterprise Architecture Program on Azure - Microsoft
-        details: "2017"
-      - label: Data Modelling Master Class - Steve Hoberman
-        details: "2016"
-      - label: Data Vault Certified Data Modeler, DVCDM
-        details: "2014"
-      - label: CDMP Preparation
-        details: "2024"
+      - bullet: Certified Scrum Product Owner (2022)
+      - bullet: Data Mesh — Domain Oriented Data (2022)
+      - bullet: Lead Enterprise Architecture Program on Azure — Microsoft (2017)
+      - bullet: Data Modelling Master Class — Steve Hoberman (2016)
+      - bullet: Data Vault Certified Data Modeler (DVCDM) (2014)
+      - bullet: CDMP Preparation (2024)
 
     education:
-      - name: Lund University - Bachelor of Science, System Analysis
+      - name: Lund University
+        degree: Bachelor of Science, System Analysis
+        institution: Lund University
+        area: System Analysis
         highlights:
           - "Faculty of Informatics."
-          - "Key areas: database systems, data modeling, software architecture, UML, object-oriented design, Java programming, algorithms, and data structures."
+          - "Key areas: Database systems, data modeling, software architecture, UML, object-oriented design, Java programming, algorithms, and data structures."
 
-    professional_development:
-      - bullet: "Knowledge Graph Academy - ongoing"
-      - bullet: "Claude Academy - Claude Certified Architect track, ongoing"
+    additional_education:
       - bullet: "Apache Spark Workshop for Developers"
       - bullet: "Distributed Computing with Spark"
-      - bullet: "Data Science Specialization - Johns Hopkins University"
+      - bullet: "Data Science Specialization — Johns Hopkins University"
       - bullet: "Statistical Analysis with R"
       - bullet: "Oracle BI EE"
       - bullet: "C++ Programming"
@@ -128,11 +141,11 @@ cv:
       - bullet: "Oracle Administration"
 
     speaking_and_open_source:
-      - bullet: "*Democratizing Data* - Tryg and Prisma, 2021"
-      - bullet: "*Building Semantic Data Hub with LPG, GraphQL and Kafka Streams*, 2019"
-      - bullet: "GraphQL and graph data modeling in Neo4j"
-      - bullet: "Azure Functions and machine learning"
-      - bullet: "XML parser for Danish motor register data"
+      - bullet: "*Democratizing Data* — Tryg and Prisma (2021)"
+      - bullet: "*Building Semantic Data Hub with LPG, GraphQL and Kafka Streams* (2019)"
+      - bullet: "GraphQL & Graph Data Modeling in Neo4j"
+      - bullet: "Azure Functions & Machine Learning"
+      - bullet: "XML Parser for Danish Motor Register Data"
 
 design:
   theme: engineeringclassic
@@ -182,3 +195,9 @@ design:
       headline: false
       connections: false
       section_titles: true
+
+  section_titles:
+    space_below: 0.45cm
+
+  sections:
+    space_between_text_based_entries: 0.65em

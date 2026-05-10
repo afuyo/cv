@@ -136,6 +136,13 @@ I specialize in turning complex business processes into governed analytical plat
 
 ---
 
+# Current Learning & Professional Development
+
+- Knowledge Graph Academy ongoing
+- Claude Academy Claude Certified Architect track (ongoing)
+
+---
+
 # Education
 
 ## Lund University — Bachelor of Science, System Analysis
