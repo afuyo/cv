@@ -95,7 +95,7 @@
   [
 = Artur Mrozowski
 
-  #headline([Senior Data Architect \/ Analytics Engineering Lead])
+  #headline([Senior Data Architect \/ Data Engineering])
 
 #connections(
   [#connection-with-icon("location-dot")[Vellinge, Sweden]],

@@ -4,7 +4,7 @@ Vellinge, Sweden
 
 ---
 
-# Senior Data Architect / Analytics Engineering Lead
+# Senior Data Architect / Data Engineering
 
 Senior data architect and data engineering with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma.
 
