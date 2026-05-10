@@ -1,6 +1,6 @@
 cv:
   name: Artur Mrozowski
-  headline: Senior Data Architect / Data Engineering
+  headline: Senior Data Engineer / Data Architect
   location: Vellinge, Sweden
   email: artmro@gmail.com
   phone: "+46 733017732"
@@ -65,7 +65,7 @@ cv:
           - "**Technologies:** Snowflake, dbt, AWS"
 
       - company: Tryg
-        position: Data Engineer / Data Architect
+        position: Data Engineer / Architect
         start_date: 2016-08
         end_date: 2021-08
         highlights:
@@ -103,7 +103,7 @@ cv:
 
     earlier_career:
       - bullet: "Swedish Agency for Marine and Water Management — BI Consultant (2013 – 2014)"
-      - bullet: "DR — Business Intelligence Consultant (2012 – 2013)"
+      - bullet: "DR — Business Intelligence Developer (2012 – 2013)"
       - bullet: "Danske Bank — External Consultant (2010 – 2012)"
       - bullet: "SimCorp — Software Developer (2008 – 2010)"
       - bullet: "Copenhagen Energy — DBA (2004 – 2008)"
