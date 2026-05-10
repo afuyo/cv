@@ -109,7 +109,7 @@
 
 == Summary
 
-Senior data architect and analytics engineering lead with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma.
+Senior data architect and data engineering with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma.
 
 Strong background in analytics strategy, data product platforms, metadata-driven automation, event-driven analytics, and cross-functional collaboration between business and engineering teams.
 
@@ -145,7 +145,7 @@ I specialize in turning complex business processes into governed analytical plat
 
 #regular-entry(
   [
-    #strong[Senior Analytics Engineer], Tryg
+    #strong[Senior Data Engineer], Tryg
 
   ],
   [
@@ -267,8 +267,6 @@ I specialize in turning complex business processes into governed analytical plat
     - Designed target architecture and business proposal for a large-scale MS SQL Server data warehouse initiative.
 
     - Participated in Data Governance Board activities defining enterprise data standards, policies, and governance principles.
-
-    - Contributed to improving consistency and strategic use of enterprise information assets.
 
   ],
 )
