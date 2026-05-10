@@ -4,7 +4,7 @@ Vellinge, Sweden
 
 ---
 
-# Senior Data Architect / Data Engineering
+# Senior Data Engineer / Data Architect
 
 Senior data architect and data engineering with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma.
 
@@ -73,7 +73,7 @@ I specialize in turning complex business processes into governed analytical plat
 
 ---
 
-## Tryg — Data Engineer / Data Architect
+## Tryg — Data Engineer / Architect
 **Aug 2016 – Aug 2021**
 
 - Built an underwriting data platform replacing Excel-based workflows with centralized governed data flows and shared business logic.
@@ -116,7 +116,7 @@ I specialize in turning complex business processes into governed analytical plat
 # Earlier Career
 
 - Swedish Agency for Marine and Water Management — BI Consultant (2013 – 2014)
-- DR — Business Intelligence Consultant (2012 – 2013)
+- DR — Business Intelligence Developer (2012 – 2013)
 - Danske Bank — External Consultant (2010 – 2012)
 - SimCorp — Software Developer (2008 – 2010)
 - Copenhagen Energy — DBA (2004 – 2008)

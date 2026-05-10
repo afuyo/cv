@@ -95,7 +95,7 @@
   [
 = Artur Mrozowski
 
-  #headline([Senior Data Architect \/ Data Engineering])
+  #headline([Senior Data Engineer \/ Data Architect])
 
 #connections(
   [#connection-with-icon("location-dot")[Vellinge, Sweden]],
@@ -215,7 +215,7 @@ I specialize in turning complex business processes into governed analytical plat
 
 #regular-entry(
   [
-    #strong[Data Engineer \/ Data Architect], Tryg
+    #strong[Data Engineer \/ Architect], Tryg
 
   ],
   [
@@ -292,7 +292,7 @@ I specialize in turning complex business processes into governed analytical plat
 
 - Swedish Agency for Marine and Water Management — BI Consultant (2013 – 2014)
 
-- DR — Business Intelligence Consultant (2012 – 2013)
+- DR — Business Intelligence Developer (2012 – 2013)
 
 - Danske Bank — External Consultant (2010 – 2012)
 
