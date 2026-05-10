@@ -1,0 +1,193 @@
+cv:
+  name: Artur Mrozowski
+  headline: Senior Data Architect / Analytics Engineering Lead
+  location: Vellinge, Sweden
+  email: artmro@gmail.com
+  phone: "+46 733017732"
+  photo: Artur1.png
+  social_networks:
+    - network: GitHub
+      username: afuyo
+
+  sections:
+    summary:
+      - "Senior data architect and analytics engineering lead with 15+ years of experience designing source-of-truth data platforms, semantic data models, and operational analytics solutions across insurance, finance, and pharma."
+      - "Strong background in analytics strategy, data product platforms, metadata-driven automation, event-driven analytics, and cross-functional collaboration between business and engineering teams."
+      - "I specialize in turning complex business processes into governed analytical platforms that improve metric consistency, operational visibility, and decision support."
+
+    experience:
+      - company: Tryg
+        position: Senior Analytics Engineer
+        start_date: 2023-10
+        end_date: present
+        highlights:
+          - "**Revenue Intelligence and Operational Analytics:** Developed a revenue intelligence platform enabling standardized business metrics including NDR, GRR, Logo Retention, and funnel analytics across domains."
+          - "Built an event-driven analytical model enabling drill-down from executive KPIs to individual business events and operational decision points."
+          - "Established reusable semantic definitions and time-series business events to improve metric consistency, explainability, and cross-functional trust in analytics."
+          - "**Data Product Platform and Strategy:** Helped shape a data product strategy focused on reducing fragmentation, improving interoperability, and enabling scalable analytics delivery."
+          - "Built a shared data product platform improving consistency, reuse, and delivery speed across analytical domains."
+          - "Replaced dbt with SQLMesh to improve scalability, maintainability, and developer workflow for analytical data products."
+          - "**Metadata-Driven Automation:** Designed a metadata-driven model generation approach turning declarative YAML definitions into governed SQLMesh models."
+          - "Automated generation of analytical building blocks including hook, bridge, and event models from reusable metadata, reducing manual SQL development and improving structural consistency across domains."
+          - "Modeled temporal validity, dependency-aware bridge logic, and reusable business keys as metadata instead of hand-coded model patterns."
+          - "Used dependency graphs and topological ordering to generate analytical structures in the correct sequence, improving repeatability and reducing delivery risk."
+
+      - company: Lundbeck
+        position: Senior Data Architect
+        start_date: 2021-09
+        end_date: 2023-09
+        highlights:
+          - "Defined a common data layer strategy reducing fragmentation and improving interoperability across analytics and operational domains."
+          - "Replaced a monolithic data lake approach with a flexible platform inspired by Data Mesh principles."
+          - "Enabled scalable self-service analytics while maintaining governance and semantic consistency."
+          - "Collaborated across technical and business domains to align analytical capabilities with organizational needs."
+          - "**Technologies:** Snowflake, dbt, AWS."
+
+      - company: Tryg
+        position: Data Engineer / Data Architect
+        start_date: 2016-08
+        end_date: 2021-08
+        highlights:
+          - "Built an underwriting data platform replacing Excel-based workflows with centralized governed data flows and shared business logic."
+          - "Introduced Event Modeling to improve collaboration between business and engineering stakeholders."
+          - "Designed enterprise semantic and canonical models based on ACORD to standardize concepts and improve interoperability across domains."
+          - "Built event-driven write-back capabilities using GraphQL and Kafka, enabling applications to publish operational outcomes back into the analytical ecosystem."
+          - "Automated logical and physical model generation using metadata-driven techniques, improving consistency and reducing manual effort."
+          - "**Enterprise Canonical Data Platform:** Developed a semantic data platform enabling standardized interchange of business information across departments."
+          - "Implemented graph-based semantic models in Neo4j aligned with the ACORD insurance ontology."
+          - "Exposed semantic models through GraphQL APIs and integrated event streams using Kafka."
+          - "**Metadata and Data Catalog:** Implemented metadata-driven lineage and business glossary capabilities using semantic technologies and Neo4j."
+          - "Exposed metadata and lineage through Amundsen data catalog."
+
+      - company: KMD
+        position: Data Architect
+        start_date: 2015-11
+        end_date: 2016-08
+        highlights:
+          - "Designed target architecture and business proposal for a large-scale MS SQL Server data warehouse initiative."
+          - "Participated in Data Governance Board activities defining enterprise data standards, policies, and governance principles."
+
+      - company: Nordea
+        position: Senior DW/BI Developer
+        start_date: 2014-08
+        end_date: 2015-11
+        highlights:
+          - "Led evaluation and proof of concept for data warehouse automation tooling using WhereScape RED."
+          - "Improved reliability and reduced time-to-market for BI deliveries through automation and streamlined delivery workflows."
+
+    earlier_career:
+      - "Swedish Agency for Marine and Water Management - BI Consultant, 2013-2014"
+      - "DR - Business Intelligence Consultant, 2012-2013"
+      - "Danske Bank - External Consultant, 2010-2012"
+      - "SimCorp - Software Developer, 2008-2010"
+      - "Copenhagen Energy - DBA, 2004-2008"
+      - "Quibus International AB - Software Developer, 2002-2004"
+
+    skills:
+      - label: Strategy
+        details: Analytics strategy, operational intelligence, data product platforms, source-of-truth data
+      - label: Modeling
+        details: Semantic modeling, canonical modeling, governed metrics, event-driven analytics, operational modeling
+      - label: Methods
+        details: Metadata-driven automation, domain-driven design, Event Modeling, Data Vault, HOOK methodology
+      - label: Governance
+        details: Data governance, lineage, metadata management, business glossary, reusable semantic definitions
+      - label: Technologies
+        details: Snowflake, SQLMesh, dbt, SQLGlot, Kafka, GraphQL, Neo4j, AWS, Azure
+
+    certifications:
+      - name: Certified Scrum Product Owner
+        date: 2022
+      - name: Data Mesh - Domain Oriented Data
+        date: 2022
+      - name: Lead Enterprise Architecture Program on Azure - Microsoft
+        date: 2017
+      - name: Data Modelling Master Class - Steve Hoberman
+        date: 2016
+      - name: Data Vault Certified Data Modeler, DVCDM
+        date: 2014
+      - name: CDMP Preparation
+        date: 2024
+
+    education:
+      - institution: Lund University
+        area: System Analysis
+        degree: Bachelor of Science
+        highlights:
+          - "Faculty of Informatics."
+          - "Key areas: database systems, data modeling, software architecture, UML, object-oriented design, Java programming, algorithms, and data structures."
+
+    professional_development:
+      - "Knowledge Graph Academy - ongoing"
+      - "Claude Academy - Claude Certified Architect track, ongoing"
+      - "Apache Spark Workshop for Developers"
+      - "Distributed Computing with Spark"
+      - "Data Science Specialization - Johns Hopkins University"
+      - "Statistical Analysis with R"
+      - "Oracle BI EE"
+      - "C++ Programming"
+      - "SQL Server Administration"
+      - "Oracle Administration"
+
+    speaking_and_open_source:
+      - name: Democratizing Data
+        date: 2021
+        highlights:
+          - "Presented with Tryg and Prisma."
+      - name: Building Semantic Data Hub with LPG, GraphQL and Kafka Streams
+        date: 2019
+      - name: Open source and GitHub projects
+        highlights:
+          - "GraphQL and graph data modeling in Neo4j."
+          - "Azure Functions and machine learning."
+          - "XML parser for Danish motor register data."
+
+design:
+  theme: engineeringclassic
+
+  page:
+    size: a4
+    top_margin: 0.7in
+    bottom_margin: 0.7in
+    left_margin: 0.7in
+    right_margin: 0.7in
+    show_footer: true
+    show_top_note: true
+
+  colors:
+    body: rgb(30, 30, 30)
+    name: rgb(74, 158, 255)
+    headline: rgb(74, 158, 255)
+    connections: rgb(74, 158, 255)
+    section_titles: rgb(74, 158, 255)
+    links: rgb(74, 158, 255)
+    footer: rgb(136, 136, 136)
+    top_note: rgb(136, 136, 136)
+
+  typography:
+    line_spacing: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+    font_family:
+      body: Merriweather
+      name: Merriweather
+      headline: Merriweather
+      connections: Merriweather
+      section_titles: Merriweather
+    font_size:
+      body: 10pt
+      name: 30pt
+      headline: 10pt
+      connections: 10pt
+      section_titles: 1.4em
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+

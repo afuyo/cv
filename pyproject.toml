@@ -1,0 +1,10 @@
+[project]
+name = "artur-mrozowski-cv"
+version = "0.1.0"
+description = "Source-controlled CV generated with RenderCV"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rendercv[full]>=2.6",
+]
+
