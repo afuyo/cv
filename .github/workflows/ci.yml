@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -34,6 +34,19 @@ jobs:
       - name: Render CV
         run: make cv
 
+      - name: Commit rendered outputs
+        if: github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md rendercv_output/
+          if git diff --cached --quiet; then
+            echo "No rendered output changes to commit"
+          else
+            git commit -m "Render CV outputs [skip ci]"
+            git push
+          fi
+
       - name: Upload rendered CV outputs
         uses: actions/upload-artifact@v4
         with:
@@ -58,4 +71,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
